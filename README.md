@@ -12,3 +12,7 @@ https://www.rgraph.net/changelog.html#current-release
 You can download the software from the download page:
 
 https://www.rgraph.net/download
+
+Demo page
+
+https://www.rgraph.net/demos/index.html
